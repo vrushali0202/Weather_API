@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script&family=Inspiration&family=Jost:wght@300&display=swap');
+.card {
+    width: 22rem;
+    border-radius: 30px !important;
+}
+
+.card-img{
+    -webkit-filter: brightness(60%);
+    border-radius: 30px !important;
+}
+
+.data{
+    font-family: 'Jost', sans-serif;;
+}
+
+.location{
+    font-size: 50px;
+    font-weight: 700;
+}
